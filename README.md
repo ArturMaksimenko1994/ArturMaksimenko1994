@@ -5,7 +5,7 @@
 #### 👫 Желание рабать в коллективе с опытными коллегами 
 #### 📙 Изучать новые framework 
 
-## Моей стек технологий:
+## Мой стек технологий:
 ![HTML](https://img.shields.io/badge/HTML5-2a2a2a?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-2a2a2a?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-2a2a2a?style=for-the-badge&logo=JavaScript)
